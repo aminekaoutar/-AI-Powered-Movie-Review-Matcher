@@ -13,8 +13,6 @@ An AI-powered web application that finds similar movie reviews using semantic si
 ## Installation
 
 ```bash
-git clone <your-repo-url>
-cd movie-review-similarity-app
 pip install -r requirements.txt
 ```
 
